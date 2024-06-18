@@ -9036,7 +9036,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "Blooming.Hill.Farm": "Blühender Hügel Bauernhof",
   "Jeric.Coop": "Jeric's Hühnerstall",
 
-  "Convenience.Store": "Heaps Convenience Store",
+  "Convenience.Store": "Heaps Dorfladen",
   "Daniel.Residence": "Daniels Residenz",
   "Picken.Residence": "Pickens Wohnsitz",
   "LogCabinHotel": "Log Cabin Hotel",
@@ -10876,7 +10876,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "keahiprank.Lorenzo": "Bitte, @, ich flehe dich an! Bitte nimm eine Dusche!$u",
 
 //Introduction
-  "Lorenzo.Dialogue.Introduction": "Hallo! Bist du neu hier?#$b#Mein Name ist Lorenzo, Besitzer des Heaps General Stores in Ridgeside.$h#$b#Wenn du jemals Vorräte brauchst, komm uns besuchen, ja?$h",
+  "Lorenzo.Dialogue.Introduction": "Hallo! Bist du neu hier?#$b#Mein Name ist Lorenzo, Besitzer des Heaps Dorfladen in Ridgeside.$h#$b#Wenn du jemals Vorräte brauchst, komm uns besuchen, ja?$h",
 
 //Spring
   "Lorenzo.Dialogue.spring_1": "Ein neues Jahr, eine neue Gelegenheit für Größe!$h#$b#Salute!$h",
@@ -12647,7 +12647,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
   "RSV.Map.Text.BloomingHillFarm": "Blühender Hügel Bauernhof\nGeöffnet von 9:00 Uhr bis 16:00 Uhr",
   "RSV.Map.Text.JericChickens": "Jeric's Hühnerställe",
-  "RSV.Map.Text.Heaps": "Heaps Convenience Store\nGeöffnet von 9:00 Uhr bis 16:00 Uhr (Samstags geschlossen)",
+  "RSV.Map.Text.Heaps": "Heaps Dorfladen\nGeöffnet von 9:00 Uhr bis 16:00 Uhr (Samstags geschlossen)",
   "RSV.Map.Text.Daniels": "Daniels Residenz",
   "RSV.Map.Text.Pickens": "Pickens Residenz",
   "RSV.Map.Text.LogCabinHotel.firstYear": "Log Cabin Hotel\nGeöffnet von 6:00 Uhr morgens bis 2:00 Uhr nachts",
@@ -12669,7 +12669,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "RSV.Map.Text.Starbound": "Starbound Bühne",
   "RSV.Map.Text.Ridge": "Rücken",
   "RSV.Map.Text.RidgeForest": "Ridge Wald",
-  "RSV.Map.Text.RidgeFalls": "Ridge Falls",
+  "RSV.Map.Text.RidgeFalls": "Ridge Wasserfälle",
   "RSV.Map.Text.OddJobs": "Seltsame Aufgaben",
   "RSV.Map.Text.CableCar": "Seilbahn nach Pelikan Stadt",
   "RSV.Map.Text.Electrician": "Haus des Elektrikers",
@@ -15206,7 +15206,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
   "event-75160357.05": "Guten Morgen, Fräulein Laden Dame Shanice!$h",
   "event-75160357.06": "Nur ein halbwegs anständiger Tag, denke ich, Frau Legame. $4",
   "event-75160357.07": "Guten Morgen, Fräulein Legame.$h",
-  "event-75160357.08": "Oh, wow! Ich liebe die unterschiedlichen Energien, die hier präsent sind!#$b#Ihr scheint mich alle schon zu kennen, aber lasst mich mich noch einmal vorstellen, nur um sicher zu gehen.#$b#Hallo zusammen. Mein Name ist Frau Shanice Legame, aber ihr könnt mich Miss Shanice nennen.#$b#Einige von euch kennen mich vielleicht als 'Die Ladenfrau', wie Trinnie und Keahi gesagt haben.$h#$b#Ja, ich besitze den Heaps Convenience Store zusammen mit meinem Mann.#$b#Aber heute werde ich eure Lehrerin sein.$h#$b#Ich habe früher als Lehrerin in der Stadt Zuzu gearbeitet.#$b#Ich war dort eine ganze Weile tätig, bevor ich gekündigt habe und nachdem ich meinen Mann geheiratet habe ins Tal gezogen bin.#$b#Eure Lehrerin Miss Flor hat mich heute gebeten, im Rahmen ihres persönlichen Studiums eure Lehrerin zu sein.#$b#Ich hoffe, ihr nehmt mich mit offenen Armen auf und hört mir während unserer Zeit zu.$h",
+  "event-75160357.08": "Oh, wow! Ich liebe die unterschiedlichen Energien, die hier präsent sind!#$b#Ihr scheint mich alle schon zu kennen, aber lasst mich mich noch einmal vorstellen, nur um sicher zu gehen.#$b#Hallo zusammen. Mein Name ist Frau Shanice Legame, aber ihr könnt mich Miss Shanice nennen.#$b#Einige von euch kennen mich vielleicht als 'Die Ladenfrau', wie Trinnie und Keahi gesagt haben.$h#$b#Ja, ich besitze den Heaps Dorfladen zusammen mit meinem Mann.#$b#Aber heute werde ich eure Lehrerin sein.$h#$b#Ich habe früher als Lehrerin in der Stadt Zuzu gearbeitet.#$b#Ich war dort eine ganze Weile tätig, bevor ich gekündigt habe und nachdem ich meinen Mann geheiratet habe ins Tal gezogen bin.#$b#Eure Lehrerin Miss Flor hat mich heute gebeten, im Rahmen ihres persönlichen Studiums eure Lehrerin zu sein.#$b#Ich hoffe, ihr nehmt mich mit offenen Armen auf und hört mir während unserer Zeit zu.$h",
   "event-75160357.09": "WAS!? Du warst eine Lehrerin in der großen Stadt, Miss Ladenbesitzerin!?$u",
   "event-75160357.10": "Keahi, es ist 'Miss Shanice', nicht 'Miss Shop Lady'!$a",
   "event-75160357.11": "Können wir das bitte hinter uns bringen?$s#$b#Ich bin nur hier, weil meine Großmutter es mir gesagt, äh, ich meine, gebeten hat, zu kommen.#$b#Ich habe zuhause meinen eigenen Privatlehrer und finde das hier unnötig.$4",
@@ -21004,7 +21004,7 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 	//Minecart Names
   "Minecart.CableCar": "Pelikan Stadt",
   "Minecart.Heaps": "Heaps Gemischtwarenladen",
-  "Minecart.Nightingale": "Nachtigallen Obstgarten",
+  "Minecart.Nightingale": "Nachtigallen-Obstgarten",
   "Minecart.Greenhouse": "Ridgeside Gemeinschaftsgewächshaus",
   "Minecart.EastSummit": "Osten - Gipfelhof",
   "Minecart.WestSummit": "West - Gipfelhof",
@@ -21686,6 +21686,32 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 
 //Powers
   "RSV.RiveraSecret.name": "Geheimnis der Familie Rivera",
-  "RSV.RiveraSecret.description": "Verdoppelt den Wert aller Fische, die in Ridgeside heimisch sind."
+  "RSV.RiveraSecret.description": "Verdoppelt den Wert aller Fische, die in Ridgeside heimisch sind.",
+
+//CJB Cheats compat
+  "RSV.cjbwarps.village": "Ridgeside Dorf",
+  "RSV.cjbwarps.surroundings": "Ridgeside Umgebung",
+  "RSV.cjbwarps.hotel": "Holzhütten-Hotel",
+  "RSV.cjbwarps.plaza": "Dorfplatz",
+  "RSV.cjbwarps.jerichouse": "Blühender Hügel Bauernhof",
+  "RSV.cjbwarps.pikas": "Pika's Restaurant",
+  "RSV.cjbwarps.orchard": "Nachtigallen-Obstgarten",
+  "RSV.cjbwarps.waterlab": "Wasserlabor",
+  "RSV.cjbwarps.lolashed": "Lola's Schuppen",
+  "RSV.cjbwarps.clinic": "Ridgeside Klinik",
+  "RSV.cjbwarps.greenhouse1": "Gemeinschaftsgewächshaus",
+  "RSV.cjbwarps.heaps": "Heaps Dorfladen",
+  "RSV.cjbwarps.oddjobs": "Odd Jobs",
+  "RSV.cjbwarps.mansion": "Amethyne-Anwesen",
+  "RSV.cjbwarps.cablecar": "Seilbahn",
+  "RSV.cjbwarps.cliff": "Klippen",
+  "RSV.cjbwarps.hike": "Wanderweg",
+  "RSV.cjbwarps.ninja": "Ninja Haus",
+  "RSV.cjbwarps.ridge": "Der Bergrücken",
+  "RSV.cjbwarps.forest": "Ridge Wald",
+  "RSV.cjbwarps.falls": "Ridge Wasserfälle",
+  "RSV.cjbwarps.spiritrealm": "Geisterreich",
+  "RSV.cjbwarps.summitfarm": "Gipfelhof"
+
 
 }
